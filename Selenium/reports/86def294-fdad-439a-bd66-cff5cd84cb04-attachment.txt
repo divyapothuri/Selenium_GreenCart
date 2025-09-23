@@ -1,0 +1,43 @@
+[32mINFO    [0m pytest_logger:test_greenkart.py:60 Starting the Greenkart test automation script.
+[32mINFO    [0m pytest_logger:test_greenkart.py:63 Navigating to the home page.
+[32mINFO    [0m pytest_logger:PracticePage.py:13 Starting the practice page test.
+[32mINFO    [0m pytest_logger:PracticePage.py:15 Clicking the 'Practice' link.
+[32mINFO    [0m pytest_logger:PracticePage.py:17 Current URL: https://rahulshettyacademy.com/practice-project
+[32mINFO    [0m pytest_logger:PracticePage.py:18 Current page title: Improve Your Skill - Use our Practice Sites & Apps for your QA Automation | Rahul Shetty Academy
+[32mINFO    [0m pytest_logger:PracticePage.py:19 Successfully navigated to the practice page.
+[32mINFO    [0m pytest_logger:test_greenkart.py:66 Current URL: https://rahulshettyacademy.com/practice-project
+[32mINFO    [0m pytest_logger:test_greenkart.py:69 Navigating to the login page.
+[32mINFO    [0m pytest_logger:LoginPage.py:13 Starting the login process.
+[32mINFO    [0m pytest_logger:LoginPage.py:15 Entering username.
+[32mINFO    [0m pytest_logger:LoginPage.py:18 Entering email address.
+[32mINFO    [0m pytest_logger:LoginPage.py:21 Clicking the terms agreement checkbox.
+[32mINFO    [0m pytest_logger:LoginPage.py:24 Clicking the submit button.
+[32mINFO    [0m pytest_logger:LoginPage.py:27 Login process completed.
+[32mINFO    [0m pytest_logger:test_greenkart.py:74 Login successful.
+[32mINFO    [0m pytest_logger:test_greenkart.py:77 Clicking on the practice link.
+[32mINFO    [0m pytest_logger:LinkPractice.py:13 Starting the practice link test.
+[32mINFO    [0m pytest_logger:LinkPractice.py:15 Clicking on 'Automation Practise - 1' link.
+[32mINFO    [0m pytest_logger:LinkPractice.py:18 Current URL: https://rahulshettyacademy.com/seleniumPractise/#/
+[32mINFO    [0m pytest_logger:LinkPractice.py:19 Current page title: GreenKart - veg and fruits kart
+[32mINFO    [0m pytest_logger:LinkPractice.py:20 Successfully navigated to the practice website.
+[32mINFO    [0m pytest_logger:test_greenkart.py:80 Practice page loaded.
+[32mINFO    [0m pytest_logger:test_greenkart.py:83 Adding items to the cart.
+[32mINFO    [0m pytest_logger:CartDashboard.py:13 Starting the cart dashboard test.
+[32mINFO    [0m pytest_logger:CartDashboard.py:16 Searching for item 'ber'.
+[32mINFO    [0m pytest_logger:CartDashboard.py:21 Adding all displayed items to the cart.
+[32mINFO    [0m pytest_logger:CartDashboard.py:28 Clicking on the cart icon.
+[32mINFO    [0m pytest_logger:CartDashboard.py:33 Clicking 'PROCEED TO CHECKOUT'.
+[32mINFO    [0m pytest_logger:CartDashboard.py:36 Successfully proceeded to checkout.
+[32mINFO    [0m pytest_logger:test_greenkart.py:86 Items added and cart page loaded.
+[32mINFO    [0m pytest_logger:test_greenkart.py:89 Proceeding to checkout.
+[32mINFO    [0m pytest_logger:Checkout.py:12 Starting the checkout process.
+[32mINFO    [0m pytest_logger:Checkout.py:14 Clicking the 'Place Order' button.
+[32mINFO    [0m pytest_logger:Checkout.py:17 Successfully clicked 'Place Order'.
+[32mINFO    [0m pytest_logger:test_greenkart.py:92 Checkout page loaded.
+[32mINFO    [0m pytest_logger:test_greenkart.py:95 Confirming the final order.
+[32mINFO    [0m pytest_logger:Billing.py:14 Starting the billing process.
+[32mINFO    [0m pytest_logger:Billing.py:16 Selecting 'India' from the country dropdown.
+[32mINFO    [0m pytest_logger:Billing.py:22 Clicking the terms and conditions checkbox.
+[32mINFO    [0m pytest_logger:Billing.py:27 Clicking the 'Proceed' button.
+[32mINFO    [0m pytest_logger:Billing.py:29 Successfully clicked 'Proceed'.
+[32mINFO    [0m pytest_logger:test_greenkart.py:98 Order confirmed and test completed successfully.

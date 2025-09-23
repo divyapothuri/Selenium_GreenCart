@@ -1,0 +1,43 @@
+2025-09-20 12:50:38 - pytest_logger - INFO - Starting the Greenkart test automation script.
+2025-09-20 12:50:39 - pytest_logger - INFO - Navigating to the home page.
+2025-09-20 12:50:39 - pytest_logger - INFO - Starting the practice page test.
+2025-09-20 12:50:39 - pytest_logger - INFO - Clicking the 'Practice' link.
+2025-09-20 12:50:40 - pytest_logger - INFO - Current URL: https://rahulshettyacademy.com/practice-project
+2025-09-20 12:50:40 - pytest_logger - INFO - Current page title: Improve Your Skill - Use our Practice Sites & Apps for your QA Automation | Rahul Shetty Academy
+2025-09-20 12:50:40 - pytest_logger - INFO - Successfully navigated to the practice page.
+2025-09-20 12:50:40 - pytest_logger - INFO - Current URL: https://rahulshettyacademy.com/practice-project
+2025-09-20 12:50:40 - pytest_logger - INFO - Navigating to the login page.
+2025-09-20 12:50:40 - pytest_logger - INFO - Starting the login process.
+2025-09-20 12:50:40 - pytest_logger - INFO - Entering username.
+2025-09-20 12:50:40 - pytest_logger - INFO - Entering email address.
+2025-09-20 12:50:40 - pytest_logger - INFO - Clicking the terms agreement checkbox.
+2025-09-20 12:50:40 - pytest_logger - INFO - Clicking the submit button.
+2025-09-20 12:50:46 - pytest_logger - INFO - Login process completed.
+2025-09-20 12:50:46 - pytest_logger - INFO - Login successful.
+2025-09-20 12:50:46 - pytest_logger - INFO - Clicking on the practice link.
+2025-09-20 12:50:46 - pytest_logger - INFO - Starting the practice link test.
+2025-09-20 12:50:46 - pytest_logger - INFO - Clicking on 'Automation Practise - 1' link.
+2025-09-20 12:50:55 - pytest_logger - INFO - Current URL: https://rahulshettyacademy.com/seleniumPractise/#/
+2025-09-20 12:50:55 - pytest_logger - INFO - Current page title: GreenKart - veg and fruits kart
+2025-09-20 12:50:55 - pytest_logger - INFO - Successfully navigated to the practice website.
+2025-09-20 12:50:55 - pytest_logger - INFO - Practice page loaded.
+2025-09-20 12:50:55 - pytest_logger - INFO - Adding items to the cart.
+2025-09-20 12:50:55 - pytest_logger - INFO - Starting the cart dashboard test.
+2025-09-20 12:50:55 - pytest_logger - INFO - Searching for item 'ber'.
+2025-09-20 12:51:00 - pytest_logger - INFO - Adding all displayed items to the cart.
+2025-09-20 12:51:00 - pytest_logger - INFO - Clicking on the cart icon.
+2025-09-20 12:51:06 - pytest_logger - INFO - Clicking 'PROCEED TO CHECKOUT'.
+2025-09-20 12:51:11 - pytest_logger - INFO - Successfully proceeded to checkout.
+2025-09-20 12:51:11 - pytest_logger - INFO - Items added and cart page loaded.
+2025-09-20 12:51:11 - pytest_logger - INFO - Proceeding to checkout.
+2025-09-20 12:51:11 - pytest_logger - INFO - Starting the checkout process.
+2025-09-20 12:51:11 - pytest_logger - INFO - Clicking the 'Place Order' button.
+2025-09-20 12:51:16 - pytest_logger - INFO - Successfully clicked 'Place Order'.
+2025-09-20 12:51:16 - pytest_logger - INFO - Checkout page loaded.
+2025-09-20 12:51:16 - pytest_logger - INFO - Confirming the final order.
+2025-09-20 12:51:16 - pytest_logger - INFO - Starting the billing process.
+2025-09-20 12:51:16 - pytest_logger - INFO - Selecting 'India' from the country dropdown.
+2025-09-20 12:51:21 - pytest_logger - INFO - Clicking the terms and conditions checkbox.
+2025-09-20 12:51:26 - pytest_logger - INFO - Clicking the 'Proceed' button.
+2025-09-20 12:51:26 - pytest_logger - INFO - Successfully clicked 'Proceed'.
+2025-09-20 12:51:26 - pytest_logger - INFO - Order confirmed and test completed successfully.
