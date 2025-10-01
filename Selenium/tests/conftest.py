@@ -53,10 +53,10 @@ def driver():
 
     driver = webdriver.Chrome()
     driver.maximize_window()
-    driver.get("https://rahulshettyacademy.com")
+    # driver.get("https://rahulshettyacademy.com")
 
-    print(driver.title)
-    print(driver.current_url)
+    # print(driver.title)
+    # print(driver.current_url)
     driver.implicitly_wait(10)
     yield driver
     time.sleep(5)

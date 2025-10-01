@@ -1,57 +1,16 @@
-2025-09-23 14:55:25 - pytest_logger - INFO - Starting the Greenkart test automation script.
-2025-09-23 14:55:25 - pytest_logger - INFO - Navigating to the home page.
-2025-09-23 14:55:25 - pytest_logger - INFO - Starting the practice page test.
-2025-09-23 14:55:25 - pytest_logger - INFO - Clicking the 'Practice' link.
-2025-09-23 14:55:28 - pytest_logger - INFO - Practice link clicked.
-2025-09-23 14:55:28 - pytest_logger - INFO - Current URL: https://rahulshettyacademy.com/practice-project
-2025-09-23 14:55:28 - pytest_logger - INFO - Current page title: Improve Your Skill - Use our Practice Sites & Apps for your QA Automation | Rahul Shetty Academy
-2025-09-23 14:55:28 - pytest_logger - INFO - Successfully navigated to the practice page and URL verified.
-2025-09-23 14:55:28 - pytest_logger - INFO - Current URL: https://rahulshettyacademy.com/practice-project
-2025-09-23 14:55:28 - pytest_logger - INFO - Navigating to the login page.
-2025-09-23 14:55:28 - pytest_logger - INFO - Starting the login process.
-2025-09-23 14:55:28 - pytest_logger - INFO - Entering username: divya.
-2025-09-23 14:55:28 - pytest_logger - INFO - Username entered.
-2025-09-23 14:55:28 - pytest_logger - INFO - Entering email address: divya.pothuri30@gmail.com.
-2025-09-23 14:55:28 - pytest_logger - INFO - Email address entered.
-2025-09-23 14:55:28 - pytest_logger - INFO - Clicking the terms agreement checkbox.
-2025-09-23 14:55:28 - pytest_logger - INFO - Terms agreement checkbox clicked.
-2025-09-23 14:55:28 - pytest_logger - INFO - Clicking the submit button.
-2025-09-23 14:55:29 - pytest_logger - INFO - Submit button clicked.
-2025-09-23 14:55:29 - pytest_logger - INFO - Login process completed.
-2025-09-23 14:55:29 - pytest_logger - INFO - Login successful.
-2025-09-23 14:55:29 - pytest_logger - INFO - Clicking on the practice link.
-2025-09-23 14:55:29 - pytest_logger - INFO - Starting the practice link test.
-2025-09-23 14:55:29 - pytest_logger - INFO - Clicking on 'Automation Practise - 1' link.
-2025-09-23 14:55:44 - pytest_logger - INFO - Current URL: https://rahulshettyacademy.com/seleniumPractise/#/
-2025-09-23 14:55:44 - pytest_logger - INFO - Current page title: GreenKart - veg and fruits kart
-2025-09-23 14:55:44 - pytest_logger - INFO - Successfully navigated to the practice website.
-2025-09-23 14:55:44 - pytest_logger - INFO - Practice page loaded.
-2025-09-23 14:55:44 - pytest_logger - INFO - Adding items to the cart.
-2025-09-23 14:55:44 - pytest_logger - INFO - Starting the cart dashboard test.
-2025-09-23 14:55:44 - pytest_logger - INFO - Searching for item 'ber'.
-2025-09-23 14:55:49 - pytest_logger - INFO - Adding all displayed items to the cart.
-2025-09-23 14:55:49 - pytest_logger - INFO - Clicking on the cart icon.
-2025-09-23 14:55:55 - pytest_logger - INFO - Clicking 'PROCEED TO CHECKOUT'.
-2025-09-23 14:56:00 - pytest_logger - INFO - Successfully proceeded to checkout.
-2025-09-23 14:56:00 - pytest_logger - INFO - Items added and cart page loaded.
-2025-09-23 14:56:00 - pytest_logger - INFO - Proceeding to checkout.
-2025-09-23 14:56:00 - pytest_logger - INFO - Starting the promo code application process.
-2025-09-23 14:56:00 - pytest_logger - INFO - Entering promo code 'rahulshettyacademy'.
-2025-09-23 14:56:00 - pytest_logger - INFO - Promo code entered.
-2025-09-23 14:56:00 - pytest_logger - INFO - Clicking the 'Apply' promo button.
-2025-09-23 14:56:00 - pytest_logger - INFO - Promo button clicked.
-2025-09-23 14:56:00 - pytest_logger - INFO - Waiting for promo code application status message.
-2025-09-23 14:56:05 - pytest_logger - INFO - Promo application message: Code applied ..!
-2025-09-23 14:56:05 - pytest_logger - INFO - Starting the checkout process.
-2025-09-23 14:56:05 - pytest_logger - INFO - Clicking the 'Place Order' button.
-2025-09-23 14:56:05 - pytest_logger - INFO - Successfully clicked 'Place Order'.
-2025-09-23 14:56:05 - pytest_logger - INFO - Checkout page loaded.
-2025-09-23 14:56:05 - pytest_logger - INFO - Confirming the final order.
-2025-09-23 14:56:05 - pytest_logger - INFO - Starting the billing process.
-2025-09-23 14:56:05 - pytest_logger - INFO - Selecting 'India' from the country dropdown.
-2025-09-23 14:56:05 - pytest_logger - INFO - Country 'India' selected.
-2025-09-23 14:56:05 - pytest_logger - INFO - Clicking the terms and conditions checkbox.
-2025-09-23 14:56:05 - pytest_logger - INFO - Terms and conditions checkbox clicked.
-2025-09-23 14:56:05 - pytest_logger - INFO - Clicking the 'Proceed' button.
-2025-09-23 14:56:05 - pytest_logger - INFO - Successfully clicked 'Proceed'.
-2025-09-23 14:56:05 - pytest_logger - INFO - Order confirmed and test completed successfully.
+2025-10-01 15:19:40 - pytest_logger - INFO - Starting tt practice automation script.
+2025-10-01 15:19:40 - pytest_logger - INFO - Launch  practice page
+2025-10-01 15:20:02 - pytest_logger - INFO - Radio button practice
+2025-10-01 15:20:03 - pytest_logger - INFO - Radio button clicked
+2025-10-01 15:20:03 - pytest_logger - INFO - Enter country
+2025-10-01 15:20:03 - pytest_logger - INFO - Select option from dropdown
+2025-10-01 15:20:03 - pytest_logger - INFO - Select the checkbox
+2025-10-01 15:20:04 - pytest_logger - INFO - verify the broken links
+2025-10-01 15:20:54 - pytest_logger - INFO - Mouse over
+2025-10-01 15:21:01 - pytest_logger - INFO - Verifying visibility of element
+2025-10-01 15:21:01 - pytest_logger - INFO - Showing the text box and verifying it is visible.
+2025-10-01 15:21:01 - pytest_logger - INFO - Hiding the text box and verifying it is not visible.
+2025-10-01 15:21:01 - pytest_logger - INFO - Verifying alerts
+2025-10-01 15:21:02 - pytest_logger - INFO - opening new tab
+2025-10-01 15:21:04 - pytest_logger - INFO - opening new window
+2025-10-01 15:21:05 - pytest_logger - INFO - frames

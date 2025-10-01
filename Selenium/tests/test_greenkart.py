@@ -53,6 +53,9 @@ else:
 @allure.epic("Make order")
 @allure.title("Full Checkout Process")
 def test_cart(driver, logger):
+    driver.get("https://rahulshettyacademy.com")
+    print(driver.title)
+    print(driver.current_url)
     """
     Tests the full checkout process on the Greenkart website.
     The 'driver' and 'logger' fixtures are automatically provided by conftest.py.
