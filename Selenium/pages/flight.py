@@ -41,6 +41,6 @@ class Flight:
         with allure.step("Enter to date"):
             self.logger.info("Enter to date")
             self.wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR,"#ctl00_mainContent_view_date1"))).click()
-            self.wait.until(
-                EC.visibility_of_element_located((By.CSS_SELECTOR, ".ui-state-default.ui-state-active.ui-state-hover"))).click()
-            self.driver.find_element(By.CSS_SELECTOR,"#ctl00_mainContent_view_date2").sele
+            # self.wait.until(
+            #     EC.visibility_of_element_located((By.CSS_SELECTOR, ".ui-state-default.ui-state-active.ui-state-hover"))).click()
+            #self.driver.find_element(By.CSS_SELECTOR,"#ctl00_mainContent_view_date2").sele

@@ -1,16 +1,11 @@
-2025-10-01 15:19:40 - pytest_logger - INFO - Starting tt practice automation script.
-2025-10-01 15:19:40 - pytest_logger - INFO - Launch  practice page
-2025-10-01 15:20:02 - pytest_logger - INFO - Radio button practice
-2025-10-01 15:20:03 - pytest_logger - INFO - Radio button clicked
-2025-10-01 15:20:03 - pytest_logger - INFO - Enter country
-2025-10-01 15:20:03 - pytest_logger - INFO - Select option from dropdown
-2025-10-01 15:20:03 - pytest_logger - INFO - Select the checkbox
-2025-10-01 15:20:04 - pytest_logger - INFO - verify the broken links
-2025-10-01 15:20:54 - pytest_logger - INFO - Mouse over
-2025-10-01 15:21:01 - pytest_logger - INFO - Verifying visibility of element
-2025-10-01 15:21:01 - pytest_logger - INFO - Showing the text box and verifying it is visible.
-2025-10-01 15:21:01 - pytest_logger - INFO - Hiding the text box and verifying it is not visible.
-2025-10-01 15:21:01 - pytest_logger - INFO - Verifying alerts
-2025-10-01 15:21:02 - pytest_logger - INFO - opening new tab
-2025-10-01 15:21:04 - pytest_logger - INFO - opening new window
-2025-10-01 15:21:05 - pytest_logger - INFO - frames
+2025-10-19 22:14:45 - pytest_logger - INFO - Starting the Login form practice automation script.
+2025-10-19 22:14:45 - pytest_logger - INFO - Launch angular practice page
+2025-10-19 22:15:04 - pytest_logger - INFO - Add product to cart
+2025-10-19 22:15:04 - pytest_logger - INFO - Adding mobile products to cart
+2025-10-19 22:15:08 - pytest_logger - INFO - Nokia Edge added to cart.
+2025-10-19 22:15:10 - pytest_logger - INFO - Click on checkout for billing
+2025-10-19 22:15:10 - pytest_logger - INFO - Clicked on checkout for billing
+2025-10-19 22:15:10 - pytest_logger - INFO - billing page
+2025-10-19 22:15:17 - pytest_logger - INFO - Click on check box
+2025-10-19 22:15:18 - pytest_logger - INFO -  Purchase button clicked successfully
+2025-10-19 22:15:18 - pytest_logger - INFO - Check sucess message after submit
